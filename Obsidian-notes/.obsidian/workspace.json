@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dab95028101ac388",
+        "id": "1b6984d1fe905a86",
         "type": "tabs",
         "children": [
           {
-            "id": "79cb0320270b7c26",
+            "id": "22616053543c7c5c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "📚 Curriculum/01_Data_Wrangling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_Data_Wrangling"
             }
           }
         ]
@@ -162,10 +166,16 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "79cb0320270b7c26",
+  "active": "22616053543c7c5c",
   "lastOpenFiles": [
-    "📖 Resources/Courses.md",
+    "📚 Curriculum/00_Intro_and_Tools.md",
+    "Без названия.base",
+    "Без названия 1",
+    "Без названия",
+    "📚 Curriculum/01_Data_Wrangling.md",
     "📖 Resources/Cheat_Sheets.md",
-    "📖 Resources/Books.md"
+    "📖 Resources/Courses.md",
+    "📖 Resources/Books.md",
+    "📚 Curriculum/03_Machine_Learning.md"
   ]
 }
